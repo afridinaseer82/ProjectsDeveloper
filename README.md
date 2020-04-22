@@ -1,0 +1,2 @@
+# ProjectsDeveloper
+I am Naseer afridi.  I have two degrees BSc in Computer Systems Engineering and MSc in Communication Control and Digital Signals Processing from Strathclyde University Glasgow. I am doing freelances and tutoring in Glasgow to various universities Students since 2011. I mostly tutoring Python, c/c++ and Java and doing the their projects for many years. I am also very experienced in window applications using Python, MySQL, Sqlite, Tkinter(GUI).  For anything else please contact me without hesitations.  
